@@ -1,0 +1,2 @@
+# VimKeybingingSetting-for-DovorakUser
+vim
