@@ -1,2 +1,5 @@
 # VimKeybingingSetting-for-DovorakUser
 dovorak配列ユーザーのためのvimキーバインドを提供するinit.lua
+
+随時更新
+キーバインドの詳細を記述する
